@@ -63,5 +63,6 @@ Una herramienta que saca captura a la pantalla, captura la webcam, Extrae archiv
 ## MUESTRA Nº2
 
 
+<img width="1366" height="768" alt="Stealer2" src="https://github.com/user-attachments/assets/da27d7be-eda4-47e5-8b9a-a35985d800b7" />
 
 
