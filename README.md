@@ -55,7 +55,7 @@ Una herramienta que saca captura a la pantalla, captura la webcam, Extrae archiv
 > - Copia la URL del WEBHOOK
 > - Ponela en el codigo
 
-## MUESTRAS ____________________________________________________________________________________________________________
+## MUESTRAS __________________________________________________________________________________________________
 
 
 <img width="1366" height="768" alt="Stealer1" src="https://github.com/user-attachments/assets/510cdcb7-8e13-47d2-a171-7a1f83b335b7" />
