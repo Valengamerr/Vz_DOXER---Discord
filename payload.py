@@ -29,7 +29,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 
-WEBHOOK_URL = "https://discordapp.com/api/webhooks/1469545046855651409/BsbFkF4NXinUawqYhGsQw6iI9_gr7iDVnf4Jy2bUPRNXcZTqxl4CVgcWcgBT_XdOQdba"
+WEBHOOK_URL = "Pone tu url del webhook aca | Valen_Qq"
 
 
 BANNER_ILUMINATOR = r"""
